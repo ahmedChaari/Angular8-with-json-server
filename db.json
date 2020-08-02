@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "label": "learn AngularJs",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "label": "learn Englaish",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "label": "Java",
+      "completed": false
+    },
+    {
+      "label": "laravel 7.0",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "label": "learn spring Boot",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "label": "NuxtJs (vueJs)",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "label": "learn C# ",
+      "completed": true,
+      "id": 8
+    }
+  ]
+}
